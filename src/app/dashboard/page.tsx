@@ -10,7 +10,7 @@ import {
   Plus,
   ArrowUpRight,
   Filter,
-  Download
+  Download, ChevronRight
 } from "lucide-react";
 import Link from "next/link";
 import { useSession } from "next-auth/react";
